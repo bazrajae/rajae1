@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rajae1/static/css/main.073c9b0a.css",
+    "main.js": "/rajae1/static/js/main.cee6c149.js",
+    "static/js/787.58d9f24d.chunk.js": "/rajae1/static/js/787.58d9f24d.chunk.js",
+    "static/media/p3.jpg": "/rajae1/static/media/p3.6293396c0503672211cc.jpg",
+    "index.html": "/rajae1/index.html",
+    "main.073c9b0a.css.map": "/rajae1/static/css/main.073c9b0a.css.map",
+    "main.cee6c149.js.map": "/rajae1/static/js/main.cee6c149.js.map",
+    "787.58d9f24d.chunk.js.map": "/rajae1/static/js/787.58d9f24d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cee6c149.js"
+  ]
+}
